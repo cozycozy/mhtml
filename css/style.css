@@ -1,0 +1,28 @@
+.header {
+    width: 100%;
+    background-color: dodgerblue
+}
+
+.wrapper {
+    width: 970px;
+    margin: 30px auto 40px;
+    background-color: antiquewhite;
+}
+
+.main {
+    display: block;
+    float: left;
+    width: 660px;
+    background-color: aqua;
+}
+
+.sidemenu {
+    float: right;
+    width: 275px;
+    background-color: bisque;
+}
+
+.footer {
+    widows: 100%;
+    background-color:dimgrey;
+}
